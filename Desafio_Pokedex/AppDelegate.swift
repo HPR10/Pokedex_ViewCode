@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Desafio_Pokedex
-//
-//  Created by Hugo Pinheiro on 28/12/21.
-//
-
 import UIKit
 
 @main
